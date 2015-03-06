@@ -45,7 +45,7 @@
 		</dict>
 	</dict>
 	<key>Description</key>
-	<string>Save references (and their PDF documents) to your Mendeley library.</string>
+	<string>Save references (and their PDFs) to your Mendeley library. (Not officially supported by Mendeley)</string>
 	<key>DeveloperIdentifier</key>
 	<string>N5L4B84AM5</string>
 	<key>ExtensionInfoDictionaryVersion</key>
@@ -60,5 +60,7 @@
 			<string>All</string>
 		</dict>
 	</dict>
+	<key>Website</key>
+	<string>http://lm2s.github.io</string>
 </dict>
 </plist>
