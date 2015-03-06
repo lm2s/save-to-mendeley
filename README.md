@@ -6,4 +6,7 @@ How it looks: [Preview](https://cld.pt/dl/download/61a5f28b-84e8-4743-a8d6-de874
 
 Extension ready to install: [Download](https://github.com/lm2s/save-to-mendeley/releases/download/1.0.0/Save-to-Mendeley.safariextz)
 
-The Mendeley logo presented in the extension belongs to Mendeley.
+**This extension is not officially supported by Mendeley Ltd. The Mendeley logo presented in the extension belongs to Mendeley Ltd, as does the bookmarklet script.**
+
+### Support
+luisnanuvem+savetomendeley@gmail.com OR @_lm2s
